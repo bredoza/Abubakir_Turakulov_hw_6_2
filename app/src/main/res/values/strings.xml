@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Abubakir_Turakulov_hw_6_2</string>
+    <string name="text0">Вход</string>
+    <string name="text1">Добро пожаловать!</string>
+    <string name="text2">Выполните вход\n или зарегестрируйтесь.</string>
+    <string name="text3">Забыл пароль?</string>
+    <string name="text4">Нажми сюда</string>
+    <string name="login_text">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="login">Войти</string>
+</resources>
